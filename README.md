@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FroBear001
+- 👀 I’m interested in Discord bots, websites and Cyber Security!
+- 🌱 I’m currently learning Python, JavaScript and HTML/CSS
